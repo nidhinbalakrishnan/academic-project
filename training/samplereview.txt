@@ -1,0 +1,71 @@
+I have a Kindle Fire and do enjoy using it (for the most part) -- love the form factor,
+enjoy the apps that I can get for it and am very pleased with the Kindle eReader app and
+ability to share books across all our Kindles. But when we were offered an opportunity 
+to check out the Samsung Galaxy Tab 2 a few days early, we jumped at the chance. 
+The Kindle Fire is great at what it does, but its custom Android O/S, non-standard Web browser,
+limited selection of apps, lack of expandable storage and lack of Bluetooth support leave me cold.
+
+*Browser Issues*
+
+I've experienced multiple issues trying to browse web sites with the Kindle's Silk browser which 
+work fine on the Galaxy Tab 2 and other full-fledged Android devices. Although Flash videos can be 
+played on the Kindle Fire (if you enable Flash in the Silk browser's setting menu, which is OFF by 
+default), Flash-based games on the Web such as Words with Friends and Bejeweled Blitz (both on 
+Facebook) are painfully jittery and sluggish on the Kindle Fire. The native Words with Friends app 
+does work well on the Kindle, for the most part, but not the web browser-based version. But Flash 
+support on mobile devices is spotty at best so this is not the worst flaw in the Kindle. Also, the 
+content management system we use on our web site is able to load pages (articles) on the Fire, but 
+unable to scroll within large text input windows. The same problem does not occur on the Galaxy Tab 
+2's browser. The Silk browser is able to access many web sites properly, but when it fails, there isn't 
+much you can do since updates to the Silk browser have been few and far between.
+
+*App and content space*
+
+The Kindle Fire and Samsung Galaxy Tab 2 each come with 8 GB of internal storage on board. Some of this 
+is used for O/S and system files which leaves even less available for apps and media content. The Kindle 
+Fire has no expandable storage, as it is designed to work in "The Cloud." In other words, they expect 
+you to store music and movies on an internet-based cloud storage area for access when you want it. The 
+big caveat here is that the Kindle Fire offers only WiFi access (no 4G support) so if you do not happen 
+to have a WiFi hotspot or home network handy (like, for example, on a long distance car trip), your 
+cloud-based content is completely inaccessible. I filled up the Kindle Fire's internal storage within the 
+first six weeks of ownership. If I want to install more apps or add local content now, I'll have to remove 
+some from the device. These apps and content are still available to download later from the cloud, if I wish 
+to do so, but this really isn't convenient. The Galaxy Tab 2 also lacks 4G support (in its current version) 
+but its standard microSDHC slot allows you to expand the on-board storage up to an additional 32 GB, which 
+is plenty of room to move your movies, music and additional content to be stored locally without requiring 
+access to the internet.
+
+*Bluetooth Support*
+
+When I am taking notes at an event or meeting, there's nothing like a full sized QWERTY keyboard. With the 
+Samsung Galaxy Tab 2, you can connect just about any standard Bluetooth keyboard and happily start typing away 
+at full speed. With the Kindle Fire, since it lacks Bluetooth support, you do not have this option. Also, when 
+you want to listen to music, movies or apps on the Fire without bothering those around you, you'll need to plug 
+in a pair of standard headphones (with the jack awkwardly placed on the bottom of the device instead of the top). 
+With the Galaxy Tab 2, not only is the jack placed more logically at the top, but you can also use Bluetooth 3.0 
+stereo headphones for high quality sound without the wired tether.
+
+*Cameras*
+
+The Kindle Fire lacks an on-board camera while the Galaxy Tab 2 includes both a front and rear-facing camera. 
+Admittedly the camera on the Galaxy Tab can't really compare with a real digital camera (particularly indoors) 
+but having the camera available on the Galaxy does allow you to snap a quick pic when the real camera may have 
+been left at home, or participate in Google+ Hangouts (not an option on the camera-free Kindle).
+
+*Limited App Support*
+
+Amazon's Kindle Fire, like Barnes and Noble's Nook Tablet, is not compatible with the Google Play Store app market 
+without rooting the device (not for beginners). To install apps on the Fire, you have to use the proprietary Amazon 
+app market which has a limited selection of apps. There's no access to cool apps like the Logitech Harmony app, or 
+the Samsung or Panasonic remote control Android apps for their TVs and Blu-ray players. The list of Android apps you 
+can't get for the Fire goes on (and on... and on). And speaking of remote apps, the Samsung Galaxy Tab 2 comes pre-loaded 
+with the Peel app which uses the Galaxy Tab's integrated IR port (another option not available on the Kindle Fire or Nook 
+Tablet) to control an entire home theater or multimedia system *without* any additional out of pocket expense. It's there; 
+it works; it's great! Also, if you want access to the Amazon app store from the Galaxy tablet, you can do this by 
+downloading and installing the Amazon apk. I've done this and have been able to access my Amazon-purchased apps on the 
+Galaxy tablet.
+
+Overall, I'd say the Kindle Fire is great for people who like to read Kindle books, who are satisfied with a smaller 
+selection of apps, who like streaming movies and TV shows from Amazon Prime (as I do) and who don't need the extra flexibility 
+of a full-fledged Android tablet. But for those who do want those extras - Bluetooth, cameras, expandable storage, Android O/S 
+4.0 - the new Samsung Galaxy Tab 2 provides an excellent upgrade for a minimal amount of additional cash. Highly recommended.
