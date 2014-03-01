@@ -141,5 +141,3 @@ negMedian = [negMedianSum[0]/listLength, negMedianSum[1]/listLength, negMedianSu
 print 'Positive Median List: ' + `posMedian`
 print 'Negative Median List: ' + `negMedian`
 
-
-
