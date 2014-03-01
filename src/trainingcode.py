@@ -84,8 +84,8 @@ def findMedian(fileName):
 def findTrainingMedian():
 	posMedianList = []
 	negMedianList = []
-	posFileIdList = mr.fileids(categories = 'pos')[0:50]
-	negFileIdList = mr.fileids(categories = 'neg')[0:50]
+	posFileIdList = mr.fileids(categories = 'pos')[0:5]
+	negFileIdList = mr.fileids(categories = 'neg')[0:5]
 	i = 1
 	print '\nTraining with Positive Reviews....'
 	for fid in posFileIdList:
