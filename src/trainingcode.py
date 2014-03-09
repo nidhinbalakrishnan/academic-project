@@ -1,9 +1,10 @@
+import math
 import nltk as nl
 import numpy as np
 from nltk.corpus import movie_reviews as mr
 
 from sentiwordnet import SentiWordNetCorpusReader, SentiSynset
-swn_filename = 'SentiWordNet_3.0.0_20100705.txt'
+swn_filename =  'SentiWordNet_3.0.0_20100705.txt'
 swn = SentiWordNetCorpusReader(swn_filename)
 
 def getWordPolarityList(fileName):
@@ -18,10 +19,12 @@ def getWordPolarityList(fileName):
 		word[1] == 'DT' or word[1] == 'TO' or word[1] == ',' or word[1] == ';'\
 		or word[1] == ':'):
 			wordList.append(word)
+	
 	'''
 	print '\nwordList: '
 	print wordList
 	'''
+
 	i = 0
 	newWordlist = []
 	for word in wordList:
@@ -63,14 +66,17 @@ def findMedian(fileName):
 			else:
 				pnList.append(tempList)
 				pnDistanceList.append(wordDistance)
+	
 	'''
 	print 'ppList:'
 	print ppList
 	'''
-	'''
+
 	ppDistanceList.sort()
 	nnDistanceList.sort()
 	pnDistanceList.sort()
+
+	'''
 	print '\nppDistanceList: '
 	print ppDistanceList
 	print '\nnnDistanceList: '
@@ -78,6 +84,7 @@ def findMedian(fileName):
 	print '\npnDistanceList: '
 	print pnDistanceList
 	'''
+
 	return [np.median(ppDistanceList), np.median(nnDistanceList), np.median(pnDistanceList)]
 
 
@@ -100,15 +107,17 @@ def findTrainingMedian():
 		temporaryMedian = findMedian(mr.abspath(fid))
 		negMedianList.append(temporaryMedian)
 		i += 1
-	trainingMedianList = [posMedianList, negMedianList]
-	return trainingMedianList
+	#trainingMedianList = [posMedianList, negMedianList]
+	#return trainingMedianList
+	return [posMedianList, negMedianList]
 
 '''
 filename = 'samplereview.txt'
 newWordlist = getWordPolarityList(filename)
 print '\nnewWordlist: '
 print newWordlist
-
+'''
+'''
 medianList = findMedian(newWordlist)
 print 'Median of ppList: ' + `medianList[0]`
 print 'Median of nnList: ' + `medianList[1]`
@@ -140,6 +149,35 @@ negMedian = [negMedianSum[0]/listLength, negMedianSum[1]/listLength, negMedianSu
 
 print 'Positive Median List: ' + `posMedian`
 print 'Negative Median List: ' + `negMedian`
+
+
+testMedian = [0, 0, 0];
+
+testFileName = 'samplereview.txt'
+testMedian = findMedian(testFileName)
+print 'Test Review Median: ' + `testMedian`
+
+
+alpha = 0.4
+beta = 0.4
+gamma = 0.2
+
+positiveDistance = math.sqrt( ((alpha + 0.15)*((testMedian[0] - posMedian[0])**2)) + \
+			 ((beta - 0.3) * ((testMedian[1] - posMedian[1])**2)) + \
+			 ((gamma + 0.15) * ((testMedian[2] - posMedian[2])**2)) );
+negativeDistance = math.sqrt( ((alpha - 0.3)*((testMedian[0] - posMedian[0])**2)) + \
+                         ((beta + 0.15) * ((testMedian[1] - posMedian[1])**2)) + \
+                         ((gamma + 0.15) * ((testMedian[2] - posMedian[2])**2)) );
+
+
+print 'Positive Distance : ' + `positiveDistance`
+print 'Negative Distance : ' + `negativeDistance`
+
+
+
+
+
+
 
 
 
