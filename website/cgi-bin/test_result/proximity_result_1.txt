@@ -1,0 +1,86 @@
+
+
+Time of testing : 2014-03-22 13:26:40.694000
+Tested from review :0 to review :100
+Comments : Linear SVC fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 56
+No of -ve reviews: 44
+In 100 Negative Reviews
+No of +ve reviews: 40
+No of -ve reviews: 60
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 56.0%
+>>>Negative Reviews : 60.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:28:10.485000
+Tested from review :0 to review :100
+Comments : Linear SVC fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 77
+No of -ve reviews: 23
+In 100 Negative Reviews
+No of +ve reviews: 59
+No of -ve reviews: 41
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 77.0%
+>>>Negative Reviews : 41.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:29:13.539000
+Tested from review :0 to review :100
+Comments : Linear SVC fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 75
+No of -ve reviews: 25
+In 100 Negative Reviews
+No of +ve reviews: 61
+No of -ve reviews: 39
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 75.0%
+>>>Negative Reviews : 39.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:30:49.003000
+Tested from review :0 to review :100
+Comments : SVC fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 86
+No of -ve reviews: 14
+In 100 Negative Reviews
+No of +ve reviews: 70
+No of -ve reviews: 30
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 86.0%
+>>>Negative Reviews : 30.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:36:07.432000
+Tested from review :0 to review :100
+Comments :  SVC fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 86
+No of -ve reviews: 14
+In 100 Negative Reviews
+No of +ve reviews: 70
+No of -ve reviews: 30
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 86.0%
+>>>Negative Reviews : 30.0%
+
+==================================================

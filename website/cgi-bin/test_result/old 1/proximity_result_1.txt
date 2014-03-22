@@ -1,0 +1,358 @@
+
+
+Time of testing : 2014-03-22 09:03:45.095000
+Tested from review :0 to review :100
+Comments : Pattern Bin only
+
+In 100 Positive Reviews
+No of +ve reviews: 86
+No of -ve reviews: 14
+In 100 Negative Reviews
+No of +ve reviews: 66
+No of -ve reviews: 34
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 86.0%
+>>>Negative Reviews : 34.0%
+
+==================================================
+
+Time of testing : 2014-03-22 09:07:52.899000
+Tested from review :0 to review :100
+Comments : median pattern
+
+In 100 Positive Reviews
+No of +ve reviews: 45
+No of -ve reviews: 55
+In 100 Negative Reviews
+No of +ve reviews: 45
+No of -ve reviews: 55
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 45.0%
+>>>Negative Reviews : 55.0%
+
+==================================================
+
+Time of testing : 2014-03-22 09:10:22
+Tested from review :0 to review :100
+Comments : median bin
+
+In 100 Positive Reviews
+No of +ve reviews: 43
+No of -ve reviews: 57
+In 100 Negative Reviews
+No of +ve reviews: 50
+No of -ve reviews: 50
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 43.0%
+>>>Negative Reviews : 50.0%
+
+==================================================
+
+Time of testing : 2014-03-22 09:11:49.299000
+Tested from review :0 to review :100
+Comments : median only
+
+In 100 Positive Reviews
+No of +ve reviews: 47
+No of -ve reviews: 53
+In 100 Negative Reviews
+No of +ve reviews: 56
+No of -ve reviews: 44
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 47.0%
+>>>Negative Reviews : 44.0%
+
+==================================================
+
+Time of testing : 2014-03-22 09:12:50.231000
+Tested from review :0 to review :100
+Comments : pattern only
+
+In 100 Positive Reviews
+No of +ve reviews: 93
+No of -ve reviews: 7
+In 100 Negative Reviews
+No of +ve reviews: 76
+No of -ve reviews: 24
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 93.0%
+>>>Negative Reviews : 24.0%
+
+==================================================
+
+Time of testing : 2014-03-22 09:14:10.466000
+Tested from review :0 to review :100
+Comments : bin only
+
+In 100 Positive Reviews
+No of +ve reviews: 92
+No of -ve reviews: 8
+In 100 Negative Reviews
+No of +ve reviews: 88
+No of -ve reviews: 12
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 92.0%
+>>>Negative Reviews : 12.0%
+
+==================================================
+
+Time of testing : 2014-03-22 09:27:49.398000
+Tested from review :0 to review :100
+Comments : bin only size 50
+
+In 100 Positive Reviews
+No of +ve reviews: 95
+No of -ve reviews: 5
+In 100 Negative Reviews
+No of +ve reviews: 94
+No of -ve reviews: 6
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 95.0%
+>>>Negative Reviews : 6.0%
+
+==================================================
+
+Time of testing : 2014-03-22 10:52:39.581000
+Tested from review :0 to review :100
+Comments : median only no gamma
+
+In 100 Positive Reviews
+No of +ve reviews: 47
+No of -ve reviews: 53
+In 100 Negative Reviews
+No of +ve reviews: 54
+No of -ve reviews: 46
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 47.0%
+>>>Negative Reviews : 46.0%
+
+==================================================
+
+Time of testing : 2014-03-22 10:56:21.270000
+Tested from review :0 to review :100
+Comments : 
+
+In 100 Positive Reviews
+No of +ve reviews: 47
+No of -ve reviews: 53
+In 100 Negative Reviews
+No of +ve reviews: 55
+No of -ve reviews: 45
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 47.0%
+>>>Negative Reviews : 45.0%
+
+==================================================
+
+Time of testing : 2014-03-22 10:58:20.617000
+Tested from review :0 to review :100
+Comments : median only
+
+In 100 Positive Reviews
+No of +ve reviews: 52
+No of -ve reviews: 48
+In 100 Negative Reviews
+No of +ve reviews: 43
+No of -ve reviews: 57
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 52.0%
+>>>Negative Reviews : 57.0%
+
+==================================================
+
+Time of testing : 2014-03-22 12:01:49.885000
+Tested from review :0 to review :100
+Comments : pattern only
+
+In 100 Positive Reviews
+No of +ve reviews: 93
+No of -ve reviews: 7
+In 100 Negative Reviews
+No of +ve reviews: 76
+No of -ve reviews: 24
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 93.0%
+>>>Negative Reviews : 24.0%
+
+==================================================
+
+Time of testing : 2014-03-22 12:04:40.590000
+Tested from review :0 to review :100
+Comments : bin only
+
+In 100 Positive Reviews
+No of +ve reviews: 77
+No of -ve reviews: 23
+In 100 Negative Reviews
+No of +ve reviews: 69
+No of -ve reviews: 31
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 77.0%
+>>>Negative Reviews : 31.0%
+
+==================================================
+
+Time of testing : 2014-03-22 12:33:01.090000
+Tested from review :0 to review :100
+Comments : fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 86
+No of -ve reviews: 14
+In 100 Negative Reviews
+No of +ve reviews: 70
+No of -ve reviews: 30
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 86.0%
+>>>Negative Reviews : 30.0%
+
+==================================================
+
+Time of testing : 2014-03-22 12:49:08.850000
+Tested from review :0 to review :100
+Comments : pattern linear svc
+
+In 100 Positive Reviews
+No of +ve reviews: 87
+No of -ve reviews: 13
+In 100 Negative Reviews
+No of +ve reviews: 72
+No of -ve reviews: 28
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 87.0%
+>>>Negative Reviews : 28.0%
+
+==================================================
+
+Time of testing : 2014-03-22 12:51:07.042000
+Tested from review :0 to review :100
+Comments : fusion linear svc
+
+In 100 Positive Reviews
+No of +ve reviews: 76
+No of -ve reviews: 24
+In 100 Negative Reviews
+No of +ve reviews: 58
+No of -ve reviews: 42
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 76.0%
+>>>Negative Reviews : 42.0%
+
+==================================================
+
+Time of testing : 2014-03-22 12:53:09.700000
+Tested from review :0 to review :100
+Comments : median pattern linear svc
+
+In 100 Positive Reviews
+No of +ve reviews: 44
+No of -ve reviews: 56
+In 100 Negative Reviews
+No of +ve reviews: 31
+No of -ve reviews: 69
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 44.0%
+>>>Negative Reviews : 69.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:03:17.159000
+Tested from review :0 to review :100
+Comments : median linear svc
+
+In 100 Positive Reviews
+No of +ve reviews: 52
+No of -ve reviews: 48
+In 100 Negative Reviews
+No of +ve reviews: 43
+No of -ve reviews: 57
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 52.0%
+>>>Negative Reviews : 57.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:05:12.850000
+Tested from review :0 to review :100
+Comments : pattern linear svc
+
+In 100 Positive Reviews
+No of +ve reviews: 87
+No of -ve reviews: 13
+In 100 Negative Reviews
+No of +ve reviews: 72
+No of -ve reviews: 28
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 87.0%
+>>>Negative Reviews : 28.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:09:05.998000
+Tested from review :0 to review :100
+Comments : bin linear svc
+
+In 100 Positive Reviews
+No of +ve reviews: 40
+No of -ve reviews: 60
+In 100 Negative Reviews
+No of +ve reviews: 25
+No of -ve reviews: 75
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 40.0%
+>>>Negative Reviews : 75.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:11:31.636000
+Tested from review :0 to review :100
+Comments : median bin
+
+In 100 Positive Reviews
+No of +ve reviews: 30
+No of -ve reviews: 70
+In 100 Negative Reviews
+No of +ve reviews: 18
+No of -ve reviews: 82
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 30.0%
+>>>Negative Reviews : 82.0%
+
+==================================================
+
+Time of testing : 2014-03-22 13:14:17.938000
+Tested from review :0 to review :100
+Comments : fusion
+
+In 100 Positive Reviews
+No of +ve reviews: 67
+No of -ve reviews: 33
+In 100 Negative Reviews
+No of +ve reviews: 51
+No of -ve reviews: 49
+Accuracy Result of the test
+Number of test reviews :100
+>>>Positive Reviews : 67.0%
+>>>Negative Reviews : 49.0%
+
+==================================================
