@@ -37,7 +37,11 @@ Procedure for Installing and setting up the tools:
 ---------------------------------------------------------------------------------------------------------
 
 
+Instruction for the website:
 
+Place the contents of the folder website in the /var/www folder. html file is placed in the /var/www/html/ folder and the python scripts for the backend and associated files are placed in the /var/www/cgi-bin/ folder.
+
+Inorder to run the scripts and sites properly, set up an apache local server.
 
 
 
